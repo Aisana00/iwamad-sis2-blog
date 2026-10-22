@@ -1,3 +1,3 @@
-Pages: https://<your-username>.github.io/iwamad-sis2-blog/
-Tests: <paste the two npm test summary lines>
+Pages: https://aisana00.github.io/iwamad-sis2-blog/
+Tests: Test Files  1 passed (1) | Tests  5 passed (5)
 Protected: /account
