@@ -1,0 +1,10 @@
+В package.json в блок "scripts" должно быть так (build и dev оставь как были):
+
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "postbuild": "node -e \"require('fs').copyFileSync('docs/index.html','docs/404.html')\"",
+    "test": "vitest run",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  }
