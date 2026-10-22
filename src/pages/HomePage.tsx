@@ -9,7 +9,7 @@ export default function HomePage() {
     <section>
       <h1>Welcome to my blog</h1>
       <p className="lead">
-        Notes from a student learning React, TypeScript and testing.
+        Notes from an IT Management student at KBTU learning React.
       </p>
       <h2 className="section-title">Latest posts</h2>
       <div className="grid">
